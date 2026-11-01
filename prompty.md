@@ -280,7 +280,7 @@ Dodaj warunek if \_\_name\_\_ == "\_\_main\_\_". Nie usuwaj żadnej z wcześniej
 
 
 
-\----------------------------------
+
 
 
 
@@ -328,7 +328,7 @@ Popraw obliczanie średniej szansy wygranej. Od sumy każdego wiersza macierzy p
 
 
 
-\----------------------------------
+
 
 
 
